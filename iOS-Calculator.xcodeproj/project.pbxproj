@@ -12,6 +12,7 @@
 		6BF910CF1F23A84C00F73E43 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6BF910CD1F23A84C00F73E43 /* Main.storyboard */; };
 		6BF910D11F23A84C00F73E43 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6BF910D01F23A84C00F73E43 /* Assets.xcassets */; };
 		6BF910D41F23A84C00F73E43 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6BF910D21F23A84C00F73E43 /* LaunchScreen.storyboard */; };
+		6BF910DC1F23A9C700F73E43 /* WorkSans-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6BF910DB1F23A9C700F73E43 /* WorkSans-ExtraLight.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		6BF910D01F23A84C00F73E43 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6BF910D31F23A84C00F73E43 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6BF910D51F23A84C00F73E43 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6BF910DB1F23A9C700F73E43 /* WorkSans-ExtraLight.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "WorkSans-ExtraLight.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				6BF910C91F23A84C00F73E43 /* AppDelegate.swift */,
 				6BF910CB1F23A84C00F73E43 /* ViewController.swift */,
 				6BF910CD1F23A84C00F73E43 /* Main.storyboard */,
+				6BF910DB1F23A9C700F73E43 /* WorkSans-ExtraLight.ttf */,
 				6BF910D01F23A84C00F73E43 /* Assets.xcassets */,
 				6BF910D21F23A84C00F73E43 /* LaunchScreen.storyboard */,
 				6BF910D51F23A84C00F73E43 /* Info.plist */,
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6BF910DC1F23A9C700F73E43 /* WorkSans-ExtraLight.ttf in Resources */,
 				6BF910D41F23A84C00F73E43 /* LaunchScreen.storyboard in Resources */,
 				6BF910D11F23A84C00F73E43 /* Assets.xcassets in Resources */,
 				6BF910CF1F23A84C00F73E43 /* Main.storyboard in Resources */,
@@ -299,6 +303,7 @@
 				6BF910DA1F23A84C00F73E43 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
